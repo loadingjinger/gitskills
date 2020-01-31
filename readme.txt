@@ -1,2 +1,2 @@
 Creating a new branch is quick
-master branch test.
+a conflict branch test.
